@@ -1,5 +1,5 @@
 import React from 'react';
 
-import SplashPage from './splashPage';
+import SplashPage from './SplashPage';
 
 export default () => <SplashPage />;
