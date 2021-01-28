@@ -1,0 +1,13 @@
+{
+  "extends": ["airbnb", "airbnb/hooks"],
+  "plugins": [
+    "orbit-components"
+  ],
+  "rules": {
+    "implicit-arrow-linebreak": "off",
+    "react/jsx-filename-extension": "off",
+    "react/jsx-wrap-multilines": "off",
+    "orbit-components/button-has-title": "error",
+    "orbit-components/unnecessary-text": "error"
+  }
+}
