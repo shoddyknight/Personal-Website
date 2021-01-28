@@ -24,7 +24,7 @@ const timIconSplash = () =>
     onClick={enterSite}
     title="Tim Knight"
   >
-    Engineering Leader
+    Non-Binary Engineering Leader (they/them)
   </PictureCard>;
 
 const SplashPage = () =>
